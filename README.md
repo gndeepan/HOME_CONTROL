@@ -9,7 +9,7 @@ APK Folder
    
   </tr>
   <tr>
-     <td><img src="pics/.jpeg" width=270 height=480></td>
+     <td><img src="pics/control.jpeg" width=270 height=480></td>
  
 
   </tr>
